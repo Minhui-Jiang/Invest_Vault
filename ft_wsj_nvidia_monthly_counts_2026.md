@@ -6,21 +6,23 @@
 
 ## Monthly counts
 
-| Month | Financial Times | Wall Street Journal |
-|---|---:|---:|
-| January 2026 | 14 | 7 |
-| February 2026 | 9 | 6 |
-| March 2026 | 18 | 9 |
-| April 2026 | 2 | 3 |
-| May 2026 | 10 | 10 |
-| June 2026 | 10 | 13 |
-| July 2026 | 5 | 10 |
-| August 2026 | 14 | 33 |
-| September 2026 | 10 | 16 |
-| October 2026 | 8 | 15 |
-| November 2026 (1–18) | 80 | 88 |
-| **Total identified** | **180** | **210** |
-
+| Month                | Financial Times | Wall Street Journal |
+| -------------------- | --------------: | ------------------: |
+| January 2026         |              14 |                   7 |
+| February 2026        |               9 |                   6 |
+| March 2026           |              18 |                   9 |
+| April 2026           |               2 |                   3 |
+| May 2026             |              10 |                  10 |
+| June 2026            |              10 |                  13 |
+| July 2026            |               5 |                  10 |
+| August 2026          |              14 |                  33 |
+| September 2026       |              10 |                  16 |
+| October 2026         |               8 |                  15 |
+| November 2026 (1–18) |              80 |                  88 |
+| **Total identified** |         **180** |             **210** |
+==🔴FT November percentage=80/180=44%==
+==🔴WSJ November percentage=88/210=41.9%==
+==🔴NYtimes November percentage=76/111=68.5% ==
 The recorded November counts are much larger than earlier months. Uneven retrieval prevents using this table to estimate the exact change in total coverage, or to conclude that one publisher covered the subject more often than the other.
 
 ## What is counted
