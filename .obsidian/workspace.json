@@ -25,12 +25,14 @@
             "id": "306d196d8de3f465",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.1"
+                "file": "ft_wsj_nvidia_monthly_counts_2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "icon": "lucide-file",
+              "title": "ft_wsj_nvidia_monthly_counts_2026"
             }
           }
         ],
@@ -200,9 +202,9 @@
   },
   "active": "306d196d8de3f465",
   "lastOpenFiles": [
+    "us_federal_financial_regulators_and_staffing.md",
     "OpenAI在给startup判死刑.md",
     "SpaceX weighting in indices.md",
-    "us_federal_financial_regulators_and_staffing.md",
     "ft_wsj_nvidia_monthly_counts_2026.md",
     "nyt_nvidia_monthly_summary_2026.md",
     "中国市场.md",
